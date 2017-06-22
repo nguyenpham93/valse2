@@ -1,0 +1,19 @@
+{
+  "name": "musicapp",
+  "version": "1.0.0",
+  "description": "just relax",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "music",
+    "relax"
+  ],
+  "author": "nguyenpham",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.3",
+    "nunjucks": "^3.0.1"
+  }
+}
